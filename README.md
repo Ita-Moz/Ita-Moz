@@ -7,7 +7,6 @@
 
 
 - 🌱 I’m currently learning ReactJS
-- 👯 open source contributor💬
 - 📫 How to reach me: luongvanmanh1929@gmail.com
 - ✍️ Motivational saying:
 ⚡ "Be whatever you want to be!"⚡
