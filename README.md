@@ -17,21 +17,21 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
-<img src="https://github.com/Ita-Moz/devicon/blob/master/icons/jquery/jquery-plain.svg" alt="jquery" width="50" height="50"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" alt="jquery" width="50" height="50"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="taildwincss" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
-<img src="https://github.com/Ita-Moz/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="50" height="50"/> 
-<img src="https://github.com/Ita-Moz/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="mysql" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="mysql" width="50" height="50"/>
 <br/>
-<img src="https://github.com/Ita-Moz/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
-<img src="https://github.com/Ita-Moz/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
 <img src="https://vitejs.dev/logo.svg" alt="vscode" width="50" height="50"/>
-<img src="https://github.com/Ita-Moz/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="60" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="60" height="60"/>
 
 
 
