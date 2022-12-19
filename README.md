@@ -10,8 +10,6 @@
 - 📫 How to reach me: luongvanmanh1929@gmail.com
 - ✍️ Motivational saying:
 ⚡ "Be whatever you want to be!"⚡
-
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="50" height="50"/> 
